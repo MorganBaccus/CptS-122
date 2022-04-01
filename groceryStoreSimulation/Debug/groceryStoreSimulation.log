@@ -1,3 +1,0 @@
-﻿  main.cpp
-c:\users\dabea\onedrive\wazzu\cpts 122\c++\grocerystoresimulation\grocerystoresimulation\main.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  groceryStoreSimulation.vcxproj -> C:\Users\dabea\OneDrive\WAZZU\CPTS 122\C++\groceryStoreSimulation\Debug\groceryStoreSimulation.exe
