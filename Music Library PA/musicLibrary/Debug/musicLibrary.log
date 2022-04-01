@@ -1,0 +1,33 @@
+﻿  music.c
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(117): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(117): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(117): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(117): warning C4024: 'strcmp': different types for formal and actual parameter 2
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(122): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(122): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(134): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(134): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(135): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(135): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(137): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(137): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(138): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(138): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(200): warning C4133: 'function': incompatible types - from 'char [26]' to 'FILE *const '
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(275): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(275): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'char **'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(275): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'char **'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(275): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'char **'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(281): warning C4133: 'function': incompatible types - from 'Node *' to 'List *'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(348): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(354): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(360): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(366): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(372): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char **'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(373): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(378): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char **'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(379): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(540): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char **'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(542): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
+c:\users\dabea\onedrive\wazzu\cpts 122\musiclibrary\musiclibrary\music.c(637): warning C4133: 'function': incompatible types - from 'Node *' to 'List *'
+  musicLibrary.vcxproj -> C:\Users\dabea\OneDrive\WAZZU\CPTS 122\musicLibrary\Debug\musicLibrary.exe
